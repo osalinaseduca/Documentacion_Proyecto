@@ -20,7 +20,6 @@ plugins:
       media_type: print
 
 
-output_path: pdf/Documentacion_proyecto.pdf
 
 
 
