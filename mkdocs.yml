@@ -7,9 +7,9 @@ nav:
   - 2: Guia_de_Referencia.md
   - 3: Guia_de_Instalacion.md
   - Descargas:
-      - Manual de usuario PDF: pdf/Manual_de_Usuario.pdf
-      - Guia de Referencia PDF: pdf/Guia_de_Referencia.pdf
-      - Guia de Instalacion PDF: pdf/Guia_de_Instalacion.pdf
+      - Manual de usuario PDF:  Manual_de_Usuario/Manual_de_Usuario.pdf
+      - Guia_de_Referencia PDF: Guia_de_Referencia/Guia_de_Referencia.pdf
+      - Guia_de_Instalacion PDF: Guia_de_Instalacion/Guia_de_Instalacion.pdf
 theme:  readthedocs
 
 plugins:
