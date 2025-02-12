@@ -6,7 +6,7 @@ nav:
   - 1: Manual_de_Usuario.md
   - 2: Guia_de_Referencia.md
   - 3: Guia_de_Instalacion.md
-  - Descarga en pdf: pdf.md
+  - Descarga en pdf: PDF.md
 theme:  readthedocs
 
 plugins:
