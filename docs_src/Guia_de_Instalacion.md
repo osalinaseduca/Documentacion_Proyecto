@@ -10,6 +10,4 @@ Sigue estos pasos para instalar y configurar el proyecto en tu máquina local o 
 - **Dependencias**  
   Necesitarás algunas bibliotecas de Python. Puedes instalarlas utilizando `pip`:
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+
