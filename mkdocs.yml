@@ -1,6 +1,6 @@
 site_name: Documentación con mkdocs y GitHub
 site_url: https://osalinaseduca.github.io/Documentacion_Proyecto/
-docs_dir: 'docs_src'
+docs_dir: 'docs-src'
 site_dir: 'site'
 nav:
   - 1: Manual_de_Usuario.md
