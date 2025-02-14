@@ -12,3 +12,4 @@ Sigue estos pasos para instalar y configurar el proyecto en tu máquina local o 
 
   ```bash
   pip install -r requirements.txt
+  ```
